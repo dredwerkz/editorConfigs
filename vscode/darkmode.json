@@ -1,10 +1,9 @@
 {
     "workbench.colorTheme": "Azure Contrast (rainglow)",
-    "synthwave84.brightness": 0.45,
     //"editor.fontFamily": "Century Gothic, 'Courier New', monospace",
     "editor.fontFamily": "'IckyTicket Mono', 'Courier New', monospace",
     "editor.fontSize": 15,
-    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontFamily": "'IckyTicket Mono', 'Courier New', monospace",
     "vscode-pets.petSize": "medium",
     "vscode-pets.theme": "forest",
     "vscode-pets.petColor": "lightbrown",
